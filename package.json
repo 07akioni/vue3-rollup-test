@@ -1,0 +1,15 @@
+{
+  "name": "test-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "rollup": "^2.32.1",
+    "rollup-plugin-vue": "^6.0.0-beta.10"
+  },
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
